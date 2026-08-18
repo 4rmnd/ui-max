@@ -1,0 +1,28 @@
+install ini:
+
+npx needmcp setup
+https://github.com/hardikpandya/stop-slop
+https://github.com/JCodesMore/ai-website-cloner-template
+npx skills@latest add mattpocock/skills --skill=grill-with-docs
+
+Versi skills
+https://ui.shadcn.com/docs/skills
+Versi mcp
+https://ui.shadcn.com/docs/mcp
+
+Tema nya bisa pilih atau setting sendiri
+https://tweakcn.com/editor/theme
+Tema dari komunitasnya juga ada
+https://tweakcn.com/community
+
+https://www.designprompts.dev/
+
+- inspora.design
+- posts.design
+- dark.design
+- macapp.supply
+- footer.design
+- recent.design
+- supahero.io
+- loadmo.re
+- refero.design

@@ -1,0 +1,34 @@
+{
+  "name": "ui-max",
+  "version": "2.0.0",
+  "description": "Autonomous Anti-Slop UI & Design Intelligence Toolkit",
+  "main": "scripts/deslop-orchestrator.js",
+  "scripts": {
+    "god-mode": "node scripts/ui-max-god-mode.js",
+    "benchmark": "node scripts/ui-max-benchmark.js",
+    "fix": "node scripts/ui-max-autofix.js",
+    "setup": "node scripts/setup-check.js",
+    "check": "node scripts/setup-check.js",
+    "scan": "node scripts/deslop-orchestrator.js .",
+    "subagents": "node scripts/parallel-subagent-dispatcher.js"
+  },
+  "keywords": [
+    "antigravity",
+    "anti-slop",
+    "ui-design",
+    "shadcn",
+    "design-system",
+    "claude-code",
+    "cursor",
+    "codex"
+  ],
+  "author": "UI MAX",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "lucide-react": "^1.31.0",
+    "react": "^19.2.8",
+    "typescript": "^7.0.2"
+  }
+}
